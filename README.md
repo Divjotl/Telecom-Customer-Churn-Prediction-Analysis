@@ -2,7 +2,6 @@
 
 This project aims to predict customer churn in the telecom industry using a machine learning model and provide an interactive interface via a **Streamlit** web application. The tool enables business users to input customer information and instantly see the likelihood of churn, helping telecom companies take proactive retention actions.
 
----
 
 ## 🚀 Project Overview
 
@@ -13,7 +12,6 @@ Churn prediction is a critical aspect of customer retention strategies in the te
 - 🧠 Model Training and Evaluation
 - 🌐 Deployment of a Streamlit Web App for Real-Time Prediction
 
----
 
 ## 📂 Dataset Overview
 
@@ -34,7 +32,6 @@ This dataset provides a comprehensive view of customer behavior and churn in the
 | `TotalCharges`    | Total amount billed to the customer                               |
 | `Churn`           | Target variable (Yes/No) indicating whether the customer churned  |
 
----
 
 ## 🎯 Objective & Applications
 
@@ -55,13 +52,11 @@ Key analytical goals include:
 - **📈 Trend Analysis**: Examine trends in tenure, monthly charges, and contract types to discover actionable insights.
 - **🧰 Feature Engineering**: Use domain knowledge to create new features that improve model performance and interpretability.
 
----
 
 ## 🧠 Model
 
 A classification model such as **Logistic Regression**, **Random Forest**, **SVM**, or **XGBoost** is trained on historical customer data to predict the likelihood of churn.
 
----
 
 ## 🌐 Web App Demo
 
@@ -69,7 +64,6 @@ The **Streamlit** app allows users to input customer attributes and get a real-t
 
 ➡️ Enter details such as age, tenure, monthly charges, contract type, and more — and instantly see whether the model predicts the customer is likely to churn.
 
----
 
 
 
